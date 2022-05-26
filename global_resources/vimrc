@@ -1,0 +1,8 @@
+syntax on
+filetype on
+set number
+set showcmd
+call plug#begin()
+Plug 'vim-airline/vim-airline'
+call plug#end()
+set laststatus=2

@@ -1,0 +1,9 @@
+# This is Git's per-user configuration file.
+[user]
+	name = Nathan Nuckels
+	email = nathannuckels@gmail.com
+[color]
+	vi=true
+	status=auto
+[merge]
+	ff=false
